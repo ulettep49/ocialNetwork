@@ -1,0 +1,1 @@
+SocialNetwork is a feature-rich platform that allows users to connect, share, and interact with friends, family, and like-minded individuals through posts, messages, and groups.
